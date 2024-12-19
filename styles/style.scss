@@ -1,0 +1,17 @@
+@import 'reset';
+
+body {
+  font-family: "Roboto", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  color: white;
+  background-color: rgb(31, 32, 38);
+  overflow: hidden;
+  position: relative;
+}
+
+#canvas {
+  position: fixed;
+  top: 0;
+
+}
